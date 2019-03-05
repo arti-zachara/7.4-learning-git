@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+@import 'header';
+@import 'footer';
+
+body {
+	margin: 0 auto;
+	background-color: rgba(143, 114, 126, 0.6);
+}
+
+.container {
+	max-width: 1200px;
+  	margin: 0 auto;
+  	width: 80%;
+}
+
+.lyrics {
+	color: white;
+	font-family: 'Open sans', sans-serif;
+	text-align: center;
+	p {
+		padding: 10px 0;
+	}
+}

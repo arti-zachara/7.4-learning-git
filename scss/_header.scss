@@ -1,0 +1,18 @@
+header {
+    height: 60vh;
+	background: url("../images/vaccine.JPG");
+	background-size: cover;
+  	background-position: center;
+    margin: 0 auto;
+    h1 {
+		width: 50vw;
+		display: block;
+		float: right;
+		background-color: rgba(216, 189, 200, 0.6);
+		color: white;
+        font-family: 'Open sans', sans-serif;
+        font-size: 40px;
+		margin-top: 100px;
+        padding: 30px 40px;
+    }
+}
