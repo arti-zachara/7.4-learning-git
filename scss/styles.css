@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
 header {
   height: 60vh;
-  background: url("../images/vaccine.JPG");
+  background: url("/images/vaccine.JPG");
   background-size: cover;
   background-position: center;
   margin: 0 auto; }
@@ -30,13 +30,22 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  width: 80%; }
-
-.lyrics {
-  color: white;
+  width: 80%;
   font-family: 'Open sans', sans-serif;
-  text-align: center; }
-  .lyrics p {
-    padding: 10px 0; }
+  text-align: center;
+  color: white; }
+
+h2 {
+  font-size: 20px;
+  text-decoration: underline;
+  margin: 10px 0 0 0; }
+
+.lyrics p {
+  padding: 10px 0; }
+.lyrics h2 {
+  font-size: 30px; }
+
+.dyscography ul {
+  list-style-position: inside; }
 
 /*# sourceMappingURL=styles.css.map */

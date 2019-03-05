@@ -10,14 +10,29 @@ body {
 .container {
 	max-width: 1200px;
   	margin: 0 auto;
-  	width: 80%;
+	width: 80%;
+	font-family: 'Open sans', sans-serif;
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	font-size: 20px;
+	text-decoration: underline;
+	margin: 10px 0 0 0;
 }
 
 .lyrics {
-	color: white;
-	font-family: 'Open sans', sans-serif;
-	text-align: center;
 	p {
 		padding: 10px 0;
+	}
+	h2 {
+		font-size: 30px;
+	}
+}
+.dyscography {
+	
+	ul {
+		list-style-position: inside;
 	}
 }
