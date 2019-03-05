@@ -38,5 +38,9 @@ body {
   text-align: center; }
   .lyrics p {
     padding: 10px 0; }
+  .lyrics h2 {
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 10px 0 0 0; }
 
 /*# sourceMappingURL=styles.css.map */
