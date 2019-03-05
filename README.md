@@ -1,1 +1,1 @@
-# learning-git-2
+# https://arti-zachara.github.io/learning-git-2/
