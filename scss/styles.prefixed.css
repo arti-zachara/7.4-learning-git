@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+header {
+  height: 60vh;
+  background: url("../images/vaccine.jpg");
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto; }
+  header h1 {
+    width: 50vw;
+    display: block;
+    float: right;
+    background-color: rgba(216, 189, 200, 0.6);
+    color: white;
+    font-family: 'Open sans', sans-serif;
+    font-size: 40px;
+    margin-top: 100px;
+    padding: 30px 40px; }
+
+footer {
+  background-color: #644545;
+  margin: 0 auto;
+  padding: 5px 20px;
+  text-align: center;
+  color: white; }
+
+body {
+  margin: 0 auto;
+  background-color: rgba(143, 114, 126, 0.6); }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 80%;
+  font-family: 'Open sans', sans-serif;
+  text-align: center;
+  color: white; }
+
+h2 {
+  font-size: 20px;
+  text-decoration: underline;
+  margin: 10px 0 0 0; }
+
+.lyrics p {
+  padding: 10px 0; }
+.lyrics h2 {
+  font-size: 30px; }
+
+.discography ul {
+  list-style-position: inside; }
+
+/*# sourceMappingURL=styles.prefixed.css.map */

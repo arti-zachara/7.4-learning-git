@@ -1,0 +1,3 @@
+node_modules/.bin/autoprefixer-cli -o ~/learning-git-2/scss/styles.prefixed.css ~/learning-git-2/scss/styles.css
+
+node_modules/.bin/nu-html-checker ~/learning-git-2/*.html
