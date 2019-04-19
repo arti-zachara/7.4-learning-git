@@ -1,7 +1,7 @@
 {
   "name": "learning-git-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kodilla 7.4 - Learning Git excercise https://arti-zachara.github.io/7.4-learning-git/",
   "main": "index.js",
   "scripts": {
     "test": "npm-run-all test:*",
@@ -40,10 +40,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arti-zachara/learning-git-2.git"
+    "url": "git+https://github.com/arti-zachara/7.4-learning-git"
   },
   "bugs": {
-    "url": "https://github.com/arti-zachara/learning-git-2/issues"
+    "url": "https://github.com/arti-zachara/7.4-learning-git/issues"
   },
-  "homepage": "https://github.com/arti-zachara/learning-git-2#readme"
+  "homepage": "https://github.com/arti-zachara/7.4-learning-git#readme"
 }
